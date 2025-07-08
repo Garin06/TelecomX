@@ -27,6 +27,8 @@ El proyecto fue desarrollado en **Google Colab** con las siguientes bibliotecas:
 - seaborn
 - plotly
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/garin06/TelecomX/blob/main/Challenge_TelecomX_Eduardo_Garin.ipynb)
+
 ---
 
 ## 🧹 Limpieza y transformación de datos
